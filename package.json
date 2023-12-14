@@ -1,0 +1,32 @@
+{
+  "name": "projetofinalppi-1",
+  "version": "1.0.0",
+  "description": "Projeto Final do curso Programação para Internet - Bate papo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Isabella-Santander/ProjetoFinalPPI.git"
+  },
+  "keywords": [
+    "HTTP",
+    "POST",
+    "Validação",
+    "Servidor"
+  ],
+  "author": "Isabella Santander de Souza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Isabella-Santander/ProjetoFinalPPI/issues"
+  },
+  "homepage": "https://github.com/Isabella-Santander/ProjetoFinalPPI#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3"
+  }
+}
